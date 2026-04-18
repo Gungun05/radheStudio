@@ -1,8 +1,1 @@
-smooth scrolling ✅
-    attach loco scroll css ✅
-    attach locomotive scroll min js ✅
-    some code from loco github for js ✅
-
-gsap
-    attach gsap
-scrolltrigger
+I've tried developing a frontend website for my father's studio, highlighting all the services provided.
